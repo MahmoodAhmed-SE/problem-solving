@@ -16,3 +16,5 @@
 ## Recursive Function
 - Convert while-loop approach into recursive function in 4.cpp
 
+## STD 
+- std::reverse() function in 1190.cpp
