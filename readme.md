@@ -18,3 +18,6 @@
 
 ## STD 
 - std::reverse() function in 1190.cpp
+
+## Linked Lists
+- Get better at structs and pointers for circular linked list in 1823.cpp
