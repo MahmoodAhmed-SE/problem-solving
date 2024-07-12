@@ -21,3 +21,6 @@
 
 ## Linked Lists
 - Get better at structs and pointers for circular linked list in 1823.cpp
+
+## Substring Problems
+- Maximum x(int): "ab", y(int): "ba" problem in 1717.cpp
