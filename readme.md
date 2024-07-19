@@ -2,7 +2,7 @@
 
 
 ## HEAPS
-- Min Heap in 347.cpp
+- Min Heap in 347.cpp ✅ Done
 
 ## String
 - Regex and string methods in string encoding and decoding problem
@@ -24,3 +24,6 @@
 
 ## Substring Problems
 - Maximum x(int): "ab", y(int): "ba" problem in 1717.cpp
+
+## C++ 
+- "Comparator" and Priority Queue Implementation in 347.cpp
