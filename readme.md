@@ -12,6 +12,7 @@
 
 ## Matrix 
 - More practice in 36.cpp
+- <strong>Practice Practice Practice Matrix.</strong>
 
 ## Recursive Function
 - Convert while-loop approach into recursive function in 4.cpp
