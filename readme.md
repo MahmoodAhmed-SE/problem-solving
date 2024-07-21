@@ -3,6 +3,7 @@
 
 ## HEAPS
 - Min Heap in 347.cpp ✅ Done
+- Heap problems include terms such as: Kth largest/smallest, Closest/Nearest
 
 ## String
 - Regex and string methods in string encoding and decoding problem
